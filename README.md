@@ -1,2 +1,2 @@
 # Javascript_Learning
-Basics and fundamental's of Javascript
+Basics and fundamentals of Javascript
